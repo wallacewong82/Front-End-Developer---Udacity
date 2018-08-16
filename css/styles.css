@@ -2,11 +2,13 @@ html{
     max-width: 100%;
     overflow-x: hidden;
 }
+
 body {
   max-width: 100%;
   overflow-x: hidden;
   font-family: "Trebuchet MS", sans-serif;
 }
+
 .container {
   max-width:1300px;
   min-width: 200px;
