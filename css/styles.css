@@ -44,7 +44,14 @@ img {
   font-size: 20pt;
   vertical-align: text-top;
 }
-
+.linkedin-profile{
+  color: white;
+  font-size: 12pt;
+}
+.github-profile{
+  color: white;
+  font-size: 14pt;
+}
 .img-and-summary {
   display: block;
   text-align: left;
